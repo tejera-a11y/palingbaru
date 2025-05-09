@@ -8,3 +8,6 @@ plugins:
 
 author:
   name: palingbaru
+
+atom_feed:
+  path: feed.xml
