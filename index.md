@@ -5,3 +5,90 @@ layout: home
 title: Selamat Datang
 ---
 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blog Pribadi | Inspirasi, Teknologi, dan Gaya Hidup</title>
+  <meta name="description" content="Selamat datang di blog pribadi saya yang membahas teknologi, tips produktivitas, dan inspirasi sehari-hari. Temukan konten menarik dan terbaru di sini.">
+  <meta name="keywords" content="blog teknologi, inspirasi hidup, tips produktivitas, tutorial pemrograman, blog pribadi Indonesia">
+  <meta name="author" content="Nama Anda">
+  <link rel="canonical" href="https://tejera-a11y.github.io/">
+  <link rel="icon" type="image/png" href="https://tejera-a11y.github.io/favicon.png">
+  <meta property="og:title" content="Blog Pribadi | Inspirasi, Teknologi, dan Gaya Hidup">
+  <meta property="og:description" content="Blog sederhana berisi inspirasi, tutorial teknologi, dan tips produktivitas.">
+  <meta property="og:url" content="https://tejera-a11y.github.io/">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://tejera-a11y.github.io/cover.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Blog Pribadi">
+  <meta name="twitter:description" content="Inspirasi, teknologi, dan kehidupan modern dalam satu blog.">
+  <meta name="twitter:image" content="https://tejera-a11y.github.io/cover.png">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0 1rem;
+      color: #333;
+      line-height: 1.6;
+      background-color: #fafafa;
+    }
+    main {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem 0;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      padding-left: 1.2em;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 16px;
+      }
+      h1 {
+        font-size: 1.8rem;
+      }
+      h2 {
+        font-size: 1.4rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Selamat Datang di Blog Saya</h1>
+    <p>
+      Blog ini adalah tempat saya membagikan ide, cerita, dan informasi bermanfaat seputar dunia teknologi, pengembangan diri, dan kehidupan sehari-hari. 
+      Temukan inspirasi baru dan pelajari hal-hal menarik dalam gaya bahasa yang santai dan mudah dipahami.
+    </p>
+
+    <h2>🔍 Topik yang Bisa Kamu Temukan di Sini</h2>
+    <ul>
+      <li>Teknologi & Pemrograman</li>
+      <li>Tips Produktivitas & Gaya Hidup</li>
+      <li>Inspirasi untuk Kreator Digital</li>
+      <li>Tutorial Singkat dan Praktis</li>
+    </ul>
+
+    <h2>🔥 Postingan Terbaru</h2>
+    <p>
+      Lihat tulisan terbaru saya di halaman berikut:<br>
+      👉 <a href="https://tejera-a11y.github.io/palingbaru/" target="_blank">Klik di sini untuk membaca yang paling baru</a>
+    </p>
+
+    <hr>
+    <p><em>Terima kasih sudah mampir. Jangan ragu untuk menjelajahi lebih banyak konten dan semoga Anda menemukan sesuatu yang berguna!</em></p>
+  </main>
+</body>
+</html>
