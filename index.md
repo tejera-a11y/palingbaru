@@ -48,7 +48,7 @@ Ini adalah halaman utama blog saya.
     Temukan inspirasi baru dan pelajari hal-hal menarik dalam gaya bahasa yang santai dan mudah dipahami.
   </p>
 
-  [<img src="354a355b-b1f9-4b4f-a6dd-b60419049a46.png" alt="Orang sedang bekerja di laptop dengan tampilan software bisnis">](https://username.github.io/a8157442-bae9-4cdd-9f51-164ed91ff95c.png)
+  [<img src="354a355b-b1f9-4b4f-a6dd-b60419049a46.png" alt="Orang sedang bekerja di laptop dengan tampilan software bisnis">](https://tejera-a11y.github.io/palingbaru/a8157442-bae9-4cdd-9f51-164ed91ff95c.png)
 
   <h2>🔍 Topik yang Bisa Kamu Temukan di Sini</h2>
   <ul>
