@@ -84,7 +84,7 @@ title: Selamat Datang
     <h2>🔥 Postingan Terbaru</h2>
     <p>
       Lihat tulisan terbaru saya di halaman berikut:<br>
-      👉 <a href="https://adskita.link/sijago88" target="_blank">Klik di sini untuk membaca yang paling baru</a>
+      👉 <a href="https://adskita.link/sijago88" target="_blank" rel="noopener noreferrer">Klik di sini untuk membaca yang paling baru</a>
     </p>
 
     <hr>
