@@ -6,13 +6,7 @@ title: Selamat Datang
   <meta name="description" content="Selamat datang di blog pribadi saya yang membahas teknologi, tips produktivitas, dan inspirasi sehari-hari. Temukan konten menarik dan terbaru di sini.">
   <style>
     body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-      color: #333;
-      line-height: 1.6;
-      background-color: #fafafa;
+
     }
     h1, h2 {
       color: #2c3e50;
