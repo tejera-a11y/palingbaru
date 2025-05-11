@@ -92,3 +92,5 @@ title: Selamat Datang
   </main>
 </body>
 </html>
+<script defer data-domain="github.com/tejera-a11y/palingbaru" src="https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js"></script>
+<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
