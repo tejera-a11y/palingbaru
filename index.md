@@ -25,6 +25,15 @@ title: Selamat Datang
   <meta name="twitter:title" content="Blog Pribadi">
   <meta name="twitter:description" content="Inspirasi, teknologi, dan kehidupan modern dalam satu blog.">
   <meta name="twitter:image" content="https://tejera-a11y.github.io/cover.png">
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2NERG34D4Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2NERG34D4Q');
+</script>
   <style>
     body {
       font-family: Arial, sans-serif;
