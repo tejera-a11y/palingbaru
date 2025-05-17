@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tejera-a11y.github.io/palingbaru/sitemap.xml
