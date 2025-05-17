@@ -1,0 +1,22 @@
+{
+  "name": "PalingBaru - Blog Informasi Menarik",
+  "short_name": "PalingBaru",
+  "start_url": "/palingbaru/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007acc",
+  "description": "Temukan informasi terbaru, strategi digital, tips, dan trik menarik hanya di PalingBaru!",
+  "lang": "id-ID",
+  "icons": [
+    {
+      "src": "/palingbaru/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/palingbaru/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
